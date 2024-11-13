@@ -1,0 +1,32 @@
+.main{
+    background-color: rgb(186, 186, 186);
+}
+.container{
+    background-color:white;
+    height: 400px;
+    width: 300px;
+    justify-content: center;
+    border: 1px white;
+    border-radius: 6px;
+    box-shadow: 0 2px 2px 2px rgb(118, 118, 118);
+    
+}
+
+
+.container img {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto 10px;
+    display: block;
+}
+
+.container button{
+    height: 30px;
+    width:100px;
+    background-color: rgb(95, 224, 95);
+    color: white;
+    border: 0;
+    border-radius: 6px;
+    cursor: pointer;
+    
+}
